@@ -20,3 +20,4 @@ a bed in hospital from the comfort of their home.
 The basic aim of the portal is to detect the occupancy of beds in hospitals. The user can search by hospital name or
 address and can get all the details regarding that hospital. The user can also contact directly to the hospital through
 the portal.
+ 
